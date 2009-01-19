@@ -1,0 +1,3 @@
+content:
+  pages: "./content/pages/"
+  articles: "./content/articles/"

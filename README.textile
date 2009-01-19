@@ -1,0 +1,19 @@
+h1. CalNeva
+
+_A Classy Mini CMS_
+
+|*Author:*|Mike Green|
+|*Email:*|"mike.is.green@gmail.com":mailto:mike.is.green@gmail.com|
+|*Homepage:*|"http://mikedamage.github.com/cal-neva":http://mikedamage.github.com/cal-neva|
+|*License:*|MIT (see LICENSE.txt for details)|
+
+h2. About Cal-Neva
+
+CalNeva is a mini CMS(Content Management System) built upon the "Sinatra":http://sinatra.rubyforge.org microframework. It's also a swanky casino and hotel on the shores of Lake Tahoe that was once partly owned by "The Chairman of the Board":http://en.wikipedia.org/wiki/Frank_Sinatra, himself. I decided to start developing CalNeva because I found the current crop of Sinatra blogging engines and CMS's slightly lacking. I like the concept of publishing in plain text instead of storing content in a database, but I also like the Wordpress (and Joomla, and Drupal, et al.) concept of having two kinds of content: pages and articles. Pages are just that: static pages that are created to display just one item of content. Articles are displayed sequentially on blog style pages and in XML news feeds. CalNeva will have the ability to publish and manage both of these.
+
+Once I get a working version of CalNeva together, I will publish a demo installation.
+
+h2. Development
+
+Feel free to fork CalNeva and add features you think are useful. I'm used to developing purpose-built solutions and not more general applications for the public at large, so I'm totally open to suggestions. I love GitHub because I've already learned so much from the smart, helpful people here.
+
